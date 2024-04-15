@@ -1,0 +1,2 @@
+CREATE DATABASE aggregator;
+CREATE DATABASE comm;
